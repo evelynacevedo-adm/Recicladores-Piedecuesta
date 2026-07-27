@@ -10,7 +10,7 @@ la comunicación entre los recicladores y la comunidad, facilitar la organizaci�
 y fortalecer el seguimiento de la información generada por las asociaciones de recicladores de oficio del municipio de Piedecuesta, 
 Santander.
 
-Descripción
+Descripción: 
 El sistema de gestión para recicladores informales en Piedecuesta es un proyecto aplicado que busca mejorar los procesos de recolección,
 clasificación y comercialización de materiales reciclables mediante una solución tecnológica accesible para ciudadanos, recicladores y 
 administradores. La plataforma integra funcionalidades para el registro de usuarios, programación de solicitudes de recolección, gestión 
