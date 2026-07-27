@@ -18,5 +18,5 @@ de rutas, seguimiento de materiales reciclables y generación de reportes, contr
 la inclusión de los recicladores informales y promover prácticas de sostenibilidad ambiental en el municipio de Piedecuesta.
 
 Integrantes:
-Evelyn Vanessa Acevedo Reyes
+Evelyn Vanessa Acevedo Reyes, 
 Andersen Manuel García García
